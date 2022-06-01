@@ -1,0 +1,12 @@
+.HeaderButton {
+  background-color: white;
+  color: green;
+  width: 100px;
+  height: 100%;
+  border: none;
+  transition: 0.2s;
+}
+
+.HeaderButton:hover {
+  font-weight: bold;
+}

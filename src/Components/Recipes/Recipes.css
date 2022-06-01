@@ -1,0 +1,11 @@
+.Recipes {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.Recipes h1 {
+  color: green;
+  margin: 18px;
+}
